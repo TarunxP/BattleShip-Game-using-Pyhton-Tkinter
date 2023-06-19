@@ -2,7 +2,7 @@
 A Game of Battleship built using Python tkinter GUI
 
 
-<img src"https://storage.googleapis.com/eluna_ai/generated_images/357a8317467b29f091eb91d51a44ba11.png">
+<img src="https://storage.googleapis.com/eluna_ai/generated_images/357a8317467b29f091eb91d51a44ba11.png">
 
 
 # Battleship Game
