@@ -3,7 +3,7 @@ A Game of Battleship built using Python tkinter GUI
 
 
 
-img href"https://drive.google.com/file/d/1oD1hdSTj3KQD1xUgjoNe6M7UXmeXZV7l/view?usp=drive_link"
+<img src"https://drive.google.com/file/d/1oD1hdSTj3KQD1xUgjoNe6M7UXmeXZV7l/view?usp=drive_link">
 
 # Battleship Game
 
